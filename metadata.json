@@ -1,0 +1,5 @@
+{
+  "name": "Assistente de Caixinha Financeira",
+  "description": "Um assistente financeiro inteligente para gerenciar sua 'caixinha'. Registre membros, controle pagamentos e tire dúvidas sobre multas, juros e sorteios com a ajuda da IA.",
+  "requestFramePermissions": []
+}
